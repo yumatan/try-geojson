@@ -1,7 +1,7 @@
 {
     "type": "Feature",
     "properties": {
-      "lineWidth": 2,
+      "lineWidth": 10,
       "lineDash": [10, 4],
       "strokeStyle": "#FF0000"
     },
