@@ -1,0 +1,19 @@
+{
+    "type": "Feature",
+    "properties": {
+      "lineWidth": 2,
+      "lineDash": [10, 4],
+      "strokeStyle": "#4a90f7"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [140.27972222222223, 35.8325],
+          [140.3855556, 35.6820007343191],
+          [140.27972222222223, 35.8325]
+        ]
+      ]
+    }
+  }
+  
