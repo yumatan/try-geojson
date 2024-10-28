@@ -3,7 +3,7 @@
     "properties": {
       "lineWidth": 2,
       "lineDash": [10, 4],
-      "strokeStyle": "#4a90f7"
+      "strokeStyle": "#FF0000"
     },
     "geometry": {
       "type": "Polygon",
